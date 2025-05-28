@@ -1,0 +1,5 @@
+streamlit
+pandas
+seaborn
+matplotlib
+google-cloud-storage

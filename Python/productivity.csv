@@ -1,0 +1,7 @@
+date,employee_name,tasks_completed,team,performance_score,work_hours,day_of_week
+2025-05-20,Alice,5,Team A,80,8,Monday
+2025-05-20,Bob,7,Team B,70,7,Monday
+2025-05-21,Alice,6,Team A,85,9,Tuesday
+2025-05-21,Bob,8,Team B,65,8,Tuesday
+2025-05-22,Alice,9,Team A,90,10,Wednesday
+2025-05-22,Bob,4,Team B,60,6,Wednesday
