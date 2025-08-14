@@ -1,0 +1,23 @@
+{
+  "ai_models": {
+    "biobert_model": "dmis-lab/biobert-base-cased-v1.1",
+    "clinical_bert": "emilyalsentzer/Bio_ClinicalBERT",
+    "drug_ner_model": "alvaroalon2/biobert_diseases_ner",
+    "device": "cpu"
+  },
+  "ibm_granite": {
+    "model_id": "ibm/granite-13b-chat-v2",
+    "url": "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation"
+  },
+  "api_endpoints": {
+    "enhanced_backend": "http://localhost:8001",
+    "fallback_backend": "http://localhost:8000",
+    "frontend": "http://localhost:5002"
+  },
+  "features": {
+    "ai_drug_extraction": true,
+    "interaction_prediction": true,
+    "safety_assessment": true,
+    "personalized_recommendations": true
+  }
+}
